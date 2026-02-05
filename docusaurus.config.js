@@ -30,12 +30,15 @@ const config = {
         locales: ['en', 'zh', 'zh-TW'],
         localeConfigs: {
             en: {
-                label: 'English'
+                label: 'English',
             },
-            "zh": {
-                label: '简体中文'
-            }
-        }
+            zh: {
+                label: '简体中文',
+            },
+            'zh-TW': {
+                label: '繁體中文',
+            },
+        },
     },
 
     plugins: [

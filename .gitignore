@@ -8,6 +8,10 @@
 .docusaurus
 .cache-loader
 
+# Generated English i18n source files (created by `docusaurus write-translations --locale en`)
+# These are auto-generated for Crowdin upload and should not be committed.
+/i18n/en
+
 # Misc
 .DS_Store
 .env.local

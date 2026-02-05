@@ -3,16 +3,20 @@
     "message": "WasmEdge",
     "description": "The title in the navbar"
   },
+  "item.label.Getting Started": {
+    "message": "快速开始",
+    "description": "Navbar item with label Getting Started"
+  },
   "item.label.Develop": {
-    "message": "Develop",
+    "message": "开发",
     "description": "Navbar item with label Develop"
   },
   "item.label.Embed": {
-    "message": "Embed",
+    "message": "嵌入",
     "description": "Navbar item with label Embed"
   },
   "item.label.Extend": {
-    "message": "Extend",
+    "message": "扩展",
     "description": "Navbar item with label Extend"
   },
   "item.label.GitHub": {
